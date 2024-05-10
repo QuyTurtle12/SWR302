@@ -3,9 +3,9 @@
 
 # <a name="_fkqr85w4d2ra"></a>**1.Team Member:**
 - ## <a name="_w68qof78tzz7"></a>Nguyễn Ngọc Quy SE171134
-- ## <a name="_bg37llco4uwn"></a>Phan Phạm Hòa SE171730
+- ## <a name="_bg37llco4uwn"></a>Phan Tuấn Đạt SE182381
 - ## <a name="_fj393ygqd98m"></a>Huỳnh Thái Tài SE171320
-- ## <a name="_x6nr5sldp5qf"></a>Trần Trọng Nhân SE171973
+- ## <a name="_x6nr5sldp5qf"></a>Hoàng Việt Đức  SE170590
 # <a name="_kex60s1c7drv"></a>**2.Requirement:**
 ## <a name="_srcmrxiyu3np"></a>**2.1 Name of The System:**
 ### <a name="_w5fmk68csmvr"></a>**Jewelry Sales System At The Store**
