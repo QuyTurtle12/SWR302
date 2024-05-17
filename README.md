@@ -3,9 +3,9 @@
 
 # <a name="_fkqr85w4d2ra"></a>**1.Team Member:**
 - ## <a name="_w68qof78tzz7"></a>Nguyễn Ngọc Quy SE171134
-- ## <a name="_bg37llco4uwn"></a>Phan Tuấn Đạt SE182381
+- ## <a name="_bg37llco4uwn"></a>Hoàng Việt Đức  SE170590
 - ## <a name="_fj393ygqd98m"></a>Huỳnh Thái Tài SE171320
-- ## <a name="_x6nr5sldp5qf"></a>Hoàng Việt Đức  SE170590
+- ## <a name="_x6nr5sldp5qf"></a>Phan Tuấn Đạt SE182381
 # <a name="_kex60s1c7drv"></a>**2.Requirement:**
 ## <a name="_srcmrxiyu3np"></a>**2.1 Name of The System:**
 ### <a name="_w5fmk68csmvr"></a>**Jewelry Sales System At The Store**
@@ -80,8 +80,9 @@
 |13\.|Update Order|Edit order info (status, delivery date).|
 |14\.|View Customer Info|View customer info + their point|
 |15\.|Search Customer|Search customer info base on phone number|
-|16\.|View Product List|View list of Product.|
-|17\.|Change Counter Status|Announce to customers that this counter is unoccupied/occupied. |
+|16\.|View Customer List|View List of Customer|
+|17\.|View Product List|View list of Product.|
+|18\.|Change Counter Status|Announce to customers that this counter is unoccupied/occupied. |
 ## <a name="_iybf9vkh6owx"></a>**2.5 Statistics**
 - ### <a name="_5ug0a6x246xj"></a>**Dashboard Statistics**
 - #### <a name="_btr78ysm3c8j"></a>Total Revenue.
