@@ -3,9 +3,9 @@
 
 # <a name="_fkqr85w4d2ra"></a>**1.Team Member:**
 - ## <a name="_w68qof78tzz7"></a>Nguyễn Ngọc Quy SE171134
-- ## <a name="_bg37llco4uwn"></a>Hoàng Việt Đức  SE170590
+- ## <a name="_bg37llco4uwn"></a>Phan Tuấn Đạt SE182381
 - ## <a name="_fj393ygqd98m"></a>Huỳnh Thái Tài SE171320
-- ## <a name="_x6nr5sldp5qf"></a>Phan Tuấn Đạt SE182381
+- ## <a name="_x6nr5sldp5qf"></a>Hoàng Việt Đức  SE170590
 # <a name="_kex60s1c7drv"></a>**2.Requirement:**
 ## <a name="_srcmrxiyu3np"></a>**2.1 Name of The System:**
 ### <a name="_w5fmk68csmvr"></a>**Jewelry Sales System At The Store**
@@ -61,6 +61,8 @@
 |15\.|Enable/Disable Promotion Request|Enable/Disable promotion to apply for the invoice|
 |16\.|View Staff List|View list of staff|
 |17\.|View Staff Info|View staff detail info|
+|18\.|Search Staff|Search staff info by phone number |
+|19\.|Search Product|Search product by product ID, name,...|
 ### <a name="_ri3rlguyx5e8"></a>**Staff**
 
 |**No.**|**Use case**|**Description**|
@@ -83,17 +85,25 @@
 |16\.|View Customer List|View List of Customer|
 |17\.|View Product List|View list of Product.|
 |18\.|Change Counter Status|Announce to customers that this counter is unoccupied/occupied. |
+|19\.|Search Product|Search product by product ID, name,...|
 ## <a name="_iybf9vkh6owx"></a>**2.5 Statistics**
 - ### <a name="_5ug0a6x246xj"></a>**Dashboard Statistics**
 - #### <a name="_btr78ysm3c8j"></a>Total Revenue.
 - Amount of Order.
-- ### <a name="_n5jjyx9dwkvz"></a>**Accessory Statistic**
+- ### <a name="_n5jjyx9dwkvz"></a>**Product Statistic**
   - #### <a name="_6tco4dynj5cl"></a>Product ID
   - #### <a name="_iktey6otpcci"></a>Product Name.
   - Price.
+  - Refund Price.
   - Stock.
   - Description.(Weight, Main Stone, Sub Stone, Number of Main Stone, Number of Sub Stone, Brand, Cut)
+  - Barcode.
+  - Labor Cost.
+  - Stone Cost.
+  - Promotion ID.
   - Gender.
+  - Category.
+  - Status.
 - ### <a name="_e4q3kbu77li"></a>**Staff/Manager/Customer Info**
   - User ID.
   - Full Name.
